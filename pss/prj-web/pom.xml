@@ -22,7 +22,7 @@
     <javaee31.jspapi.version>2.2</javaee31.jspapi.version>
     <javaee31.jstl.version>1.2</javaee31.jstl.version>
     <javaee31.taglibs.version>1.1.2</javaee31.taglibs.version>
-    <jdbc.mysql.version>8.0.15</jdbc.mysql.version>
+    <jdbc.mysql.version>8.0.28</jdbc.mysql.version>
   </properties>
 
 
